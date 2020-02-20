@@ -1,10 +1,11 @@
 # 名前
-Bootstrap
+Bootstrap-youtube
 
 # デモサイト
 https://shimotmk.com/BootStrap-YouTube-lp/
 
 # YouTube解説
+【Bootstrap入門】Bootstrapでレスポンシブなサイトを1時間で作る Bootstrap tutorial
 https://youtu.be/fou-ZR9LhGM
 
 # 説明
