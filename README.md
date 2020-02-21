@@ -1,4 +1,4 @@
-# Bootstrap-youtube
+# 【Bootstrap入門】Bootstrapでレスポンシブなサイトを1時間で作る Bootstrap tutorial
 
 ## デモサイト
 https://shimotmk.com/BootStrap-YouTube-lp/
